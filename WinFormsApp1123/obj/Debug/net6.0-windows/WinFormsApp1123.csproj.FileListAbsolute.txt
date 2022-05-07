@@ -1,0 +1,74 @@
+C:\Users\stron\OneDrive\Рабочий стол\MathProject\WinFormsApp1123\WinFormsApp1123\bin\Debug\net6.0-windows\WinFormsApp1123.exe
+C:\Users\stron\OneDrive\Рабочий стол\MathProject\WinFormsApp1123\WinFormsApp1123\bin\Debug\net6.0-windows\WinFormsApp1123.deps.json
+C:\Users\stron\OneDrive\Рабочий стол\MathProject\WinFormsApp1123\WinFormsApp1123\bin\Debug\net6.0-windows\WinFormsApp1123.runtimeconfig.json
+C:\Users\stron\OneDrive\Рабочий стол\MathProject\WinFormsApp1123\WinFormsApp1123\bin\Debug\net6.0-windows\WinFormsApp1123.dll
+C:\Users\stron\OneDrive\Рабочий стол\MathProject\WinFormsApp1123\WinFormsApp1123\bin\Debug\net6.0-windows\WinFormsApp1123.pdb
+C:\Users\stron\OneDrive\Рабочий стол\MathProject\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.csproj.AssemblyReference.cache
+C:\Users\stron\OneDrive\Рабочий стол\MathProject\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.Form1.resources
+C:\Users\stron\OneDrive\Рабочий стол\MathProject\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.csproj.GenerateResource.cache
+C:\Users\stron\OneDrive\Рабочий стол\MathProject\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stron\OneDrive\Рабочий стол\MathProject\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.AssemblyInfoInputs.cache
+C:\Users\stron\OneDrive\Рабочий стол\MathProject\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.AssemblyInfo.cs
+C:\Users\stron\OneDrive\Рабочий стол\MathProject\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.csproj.CoreCompileInputs.cache
+C:\Users\stron\OneDrive\Рабочий стол\MathProject\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.dll
+C:\Users\stron\OneDrive\Рабочий стол\MathProject\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\refint\WinFormsApp1123.dll
+C:\Users\stron\OneDrive\Рабочий стол\MathProject\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.pdb
+C:\Users\stron\OneDrive\Рабочий стол\MathProject\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.genruntimeconfig.cache
+C:\Users\stron\OneDrive\Рабочий стол\MathProject\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\ref\WinFormsApp1123.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\MathProject\WinFormsApp1123\WinFormsApp1123\bin\Debug\net6.0-windows\WinFormsApp1123.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\MathProject\WinFormsApp1123\WinFormsApp1123\bin\Debug\net6.0-windows\WinFormsApp1123.deps.json
+C:\Users\Lenovo\OneDrive\Рабочий стол\MathProject\WinFormsApp1123\WinFormsApp1123\bin\Debug\net6.0-windows\WinFormsApp1123.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Рабочий стол\MathProject\WinFormsApp1123\WinFormsApp1123\bin\Debug\net6.0-windows\WinFormsApp1123.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\MathProject\WinFormsApp1123\WinFormsApp1123\bin\Debug\net6.0-windows\ref\WinFormsApp1123.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\MathProject\WinFormsApp1123\WinFormsApp1123\bin\Debug\net6.0-windows\WinFormsApp1123.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\MathProject\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\MathProject\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\MathProject\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Рабочий стол\MathProject\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\MathProject\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\MathProject\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\MathProject\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\MathProject\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\ref\WinFormsApp1123.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\MathProject\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\MathProject\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\MathProject\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.Decision.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\MathProject\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.Main.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\MathProject\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.Properties.Resources.resources
+\\main\RDP\31П\герасимовна\Desktop\WinFormsApp1123\WinFormsApp1123\bin\Debug\net6.0-windows\WinFormsApp1123.exe
+\\main\RDP\31П\герасимовна\Desktop\WinFormsApp1123\WinFormsApp1123\bin\Debug\net6.0-windows\WinFormsApp1123.deps.json
+\\main\RDP\31П\герасимовна\Desktop\WinFormsApp1123\WinFormsApp1123\bin\Debug\net6.0-windows\WinFormsApp1123.runtimeconfig.json
+\\main\RDP\31П\герасимовна\Desktop\WinFormsApp1123\WinFormsApp1123\bin\Debug\net6.0-windows\WinFormsApp1123.dll
+\\main\RDP\31П\герасимовна\Desktop\WinFormsApp1123\WinFormsApp1123\bin\Debug\net6.0-windows\ref\WinFormsApp1123.dll
+\\main\RDP\31П\герасимовна\Desktop\WinFormsApp1123\WinFormsApp1123\bin\Debug\net6.0-windows\WinFormsApp1123.pdb
+\\main\RDP\31П\герасимовна\Desktop\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.csproj.AssemblyReference.cache
+\\main\RDP\31П\герасимовна\Desktop\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.Decision.resources
+\\main\RDP\31П\герасимовна\Desktop\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.Main.resources
+\\main\RDP\31П\герасимовна\Desktop\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.Properties.Resources.resources
+\\main\RDP\31П\герасимовна\Desktop\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.csproj.GenerateResource.cache
+\\main\RDP\31П\герасимовна\Desktop\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.GeneratedMSBuildEditorConfig.editorconfig
+\\main\RDP\31П\герасимовна\Desktop\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.AssemblyInfoInputs.cache
+\\main\RDP\31П\герасимовна\Desktop\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.AssemblyInfo.cs
+\\main\RDP\31П\герасимовна\Desktop\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.csproj.CoreCompileInputs.cache
+\\main\RDP\31П\герасимовна\Desktop\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.dll
+\\main\RDP\31П\герасимовна\Desktop\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\ref\WinFormsApp1123.dll
+\\main\RDP\31П\герасимовна\Desktop\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.pdb
+\\main\RDP\31П\герасимовна\Desktop\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.genruntimeconfig.cache
+C:\Users\am321\Downloads\WinFormsApp1123\WinFormsApp1123\bin\Debug\net6.0-windows\WinFormsApp1123.exe
+C:\Users\am321\Downloads\WinFormsApp1123\WinFormsApp1123\bin\Debug\net6.0-windows\WinFormsApp1123.deps.json
+C:\Users\am321\Downloads\WinFormsApp1123\WinFormsApp1123\bin\Debug\net6.0-windows\WinFormsApp1123.runtimeconfig.json
+C:\Users\am321\Downloads\WinFormsApp1123\WinFormsApp1123\bin\Debug\net6.0-windows\WinFormsApp1123.dll
+C:\Users\am321\Downloads\WinFormsApp1123\WinFormsApp1123\bin\Debug\net6.0-windows\WinFormsApp1123.pdb
+C:\Users\am321\Downloads\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.csproj.AssemblyReference.cache
+C:\Users\am321\Downloads\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.Decision.resources
+C:\Users\am321\Downloads\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.Main.resources
+C:\Users\am321\Downloads\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.Properties.Resources.resources
+C:\Users\am321\Downloads\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.csproj.GenerateResource.cache
+C:\Users\am321\Downloads\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\am321\Downloads\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.AssemblyInfoInputs.cache
+C:\Users\am321\Downloads\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.AssemblyInfo.cs
+C:\Users\am321\Downloads\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.csproj.CoreCompileInputs.cache
+C:\Users\am321\Downloads\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.dll
+C:\Users\am321\Downloads\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\refint\WinFormsApp1123.dll
+C:\Users\am321\Downloads\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.pdb
+C:\Users\am321\Downloads\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\WinFormsApp1123.genruntimeconfig.cache
+C:\Users\am321\Downloads\WinFormsApp1123\WinFormsApp1123\obj\Debug\net6.0-windows\ref\WinFormsApp1123.dll
